@@ -1,0 +1,16 @@
+{
+  "name": "story930",
+  "version": "1.0.0",
+  "description": "九点半陪娃",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "story",
+    "weixin\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+  ],
+  "author": "3137371811@qq.com",
+  "license": "ISC"
+}
